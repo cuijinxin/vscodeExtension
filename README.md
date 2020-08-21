@@ -1,3 +1,1 @@
-
-
-![Image text](./preview.gif)
+![Image text](https://raw.githubusercontent.com/cuijinxin/vscodeExtension/master/preview.gif)
